@@ -32,8 +32,8 @@
     },
     {
       "name":"New Tab - Google Chrome",
-      "duration":7.2226529999999984,
-      "switches":72
+      "duration":13.768473999999996,
+      "switches":137
     },
     {
       "name":"discord.com\/channels\/@me - Google Chrome",
@@ -57,8 +57,8 @@
     },
     {
       "name":"(22) Discord | #general | My_Daily_TimeSpend - Google Chrome",
-      "duration":325.33002300000027,
-      "switches":2390
+      "duration":325.73746600000027,
+      "switches":2394
     },
     {
       "name":"config.json - screentime - Cursor",
@@ -67,8 +67,8 @@
     },
     {
       "name":"usage_data.json - screentime - Cursor",
-      "duration":749.26565399999947,
-      "switches":6939
+      "duration":780.36406599999975,
+      "switches":7247
     },
     {
       "name":"● config.json - screentime - Cursor",
@@ -117,13 +117,13 @@
     },
     {
       "name":"WhatsApp - Google Chrome",
-      "duration":19.985939999999999,
-      "switches":199
+      "duration":22.105230999999989,
+      "switches":220
     },
     {
       "name":"Unknown",
-      "duration":224.76587699999985,
-      "switches":2234
+      "duration":237.5208409999999,
+      "switches":2361
     },
     {
       "name":"config.o - screentime - Cursor",
@@ -142,8 +142,8 @@
     },
     {
       "name":"Home \/ X - Google Chrome",
-      "duration":46.227103999999933,
-      "switches":460
+      "duration":51.863724999999945,
+      "switches":516
     },
     {
       "name":"x.com\/home - Google Chrome",
@@ -157,23 +157,108 @@
     },
     {
       "name":"(22) Discord | @2sharthegreat - Google Chrome",
-      "duration":19.858233000000002,
-      "switches":197
+      "duration":26.697996999999997,
+      "switches":265
     },
     {
       "name":"ChatGPT - Google Chrome",
-      "duration":1.1058290000000002,
-      "switches":11
+      "duration":22.625725000000013,
+      "switches":225
     },
     {
       "name":"Take your development skills from 0 to 100 and join the 100xdevs community - Google Chrome",
-      "duration":1.213014,
-      "switches":12
+      "duration":2.0200800000000001,
+      "switches":20
     },
     {
       "name":"Ayush Goyal (@agayushh) \/ X - Google Chrome",
-      "duration":23.662513999999998,
-      "switches":235
+      "duration":42.794525999999991,
+      "switches":425
+    },
+    {
+      "name":"YouTube - Google Chrome",
+      "duration":8.0606100000000023,
+      "switches":80
+    },
+    {
+      "name":"harkirat singh - YouTube - Google Chrome",
+      "duration":3.5367450000000007,
+      "switches":35
+    },
+    {
+      "name":"Harkirat Singh - YouTube - Google Chrome",
+      "duration":12.589675000000002,
+      "switches":125
+    },
+    {
+      "name":"github - Google Search - Google Chrome",
+      "duration":8.3647199999999984,
+      "switches":83
+    },
+    {
+      "name":"GitHub - Google Chrome",
+      "duration":13.010479999999999,
+      "switches":129
+    },
+    {
+      "name":"New repository - Google Chrome",
+      "duration":23.115035000000013,
+      "switches":230
+    },
+    {
+      "name":"nitish-singh07\/TimeTecaker - Google Chrome",
+      "duration":26.548181000000007,
+      "switches":264
+    },
+    {
+      "name":"(23) Discord | #general | My_Daily_TimeSpend - Google Chrome",
+      "duration":3.2239520000000002,
+      "switches":32
+    },
+    {
+      "name":"Ignore config.json Git - Google Chrome",
+      "duration":47.032037000000031,
+      "switches":468
+    },
+    {
+      "name":".gitignore - screentime - Cursor",
+      "duration":61.854498999999976,
+      "switches":615
+    },
+    {
+      "name":"● .gitignore - screentime - Cursor",
+      "duration":1.0050829999999999,
+      "switches":10
+    },
+    {
+      "name":"TimeTecaker\/app_track at master · nitish-singh07\/TimeTecaker - Google Chrome",
+      "duration":17.995287999999995,
+      "switches":179
+    },
+    {
+      "name":"TimeTecaker\/app_track\/src at master · nitish-singh07\/TimeTecaker - Google Chrome",
+      "duration":7.1517180000000025,
+      "switches":71
+    },
+    {
+      "name":"TimeTecaker\/app_track\/src\/tracker.c at master · nitish-singh07\/TimeTecaker - Google Chrome",
+      "duration":6.6304779999999992,
+      "switches":66
+    },
+    {
+      "name":"TimeTecaker\/app_track\/src\/config.c at master · nitish-singh07\/TimeTecaker - Google Chrome",
+      "duration":2.8116920000000007,
+      "switches":28
+    },
+    {
+      "name":"nitish-singh07 (Nitish Singh) - Google Chrome",
+      "duration":19.289860000000001,
+      "switches":192
+    },
+    {
+      "name":"TimeTecaker\/app_track\/app_tracker at master · nitish-singh07\/TimeTecaker - Google Chrome",
+      "duration":14.267525999999988,
+      "switches":142
     }
   ]
 }
