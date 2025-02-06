@@ -1,0 +1,179 @@
+{
+  "apps":[
+    {
+      "name":"app_tracker - screentime - Cursor",
+      "duration":101.69344499999998,
+      "switches":1014
+    },
+    {
+      "name":"Makefile - screentime - Cursor",
+      "duration":112.92129200000011,
+      "switches":1127
+    },
+    {
+      "name":"● Makefile - screentime - Cursor",
+      "duration":19.987248999999998,
+      "switches":152
+    },
+    {
+      "name":"tracker.c - screentime - Cursor",
+      "duration":367.4088930000014,
+      "switches":3612
+    },
+    {
+      "name":"main.c - screentime - Cursor",
+      "duration":190.79969799999989,
+      "switches":1767
+    },
+    {
+      "name":"● main.c - screentime - Cursor",
+      "duration":1.7050930000000002,
+      "switches":17
+    },
+    {
+      "name":"New Tab - Google Chrome",
+      "duration":7.2226529999999984,
+      "switches":72
+    },
+    {
+      "name":"discord.com\/channels\/@me - Google Chrome",
+      "duration":0.200768,
+      "switches":2
+    },
+    {
+      "name":"Discord - Google Chrome",
+      "duration":6.6439080000000015,
+      "switches":66
+    },
+    {
+      "name":"Discord | Friends - Google Chrome",
+      "duration":1.7207510000000001,
+      "switches":17
+    },
+    {
+      "name":"(22) Discord | Friends - Google Chrome",
+      "duration":6.9323099999999993,
+      "switches":69
+    },
+    {
+      "name":"(22) Discord | #general | My_Daily_TimeSpend - Google Chrome",
+      "duration":325.33002300000027,
+      "switches":2390
+    },
+    {
+      "name":"config.json - screentime - Cursor",
+      "duration":721.93867700000021,
+      "switches":7076
+    },
+    {
+      "name":"usage_data.json - screentime - Cursor",
+      "duration":749.26565399999947,
+      "switches":6939
+    },
+    {
+      "name":"● config.json - screentime - Cursor",
+      "duration":46.703762999999981,
+      "switches":415
+    },
+    {
+      "name":"config.c - screentime - Cursor",
+      "duration":94.882712999999896,
+      "switches":945
+    },
+    {
+      "name":"● config.c - screentime - Cursor",
+      "duration":72.071707000000032,
+      "switches":718
+    },
+    {
+      "name":"notifications.c - screentime - Cursor",
+      "duration":18.272887999999991,
+      "switches":182
+    },
+    {
+      "name":"(22) Discord | #📣│-announcements | AceHack 4.0 - Google Chrome",
+      "duration":1.4088039999999999,
+      "switches":14
+    },
+    {
+      "name":"● pip - screentime - Cursor",
+      "duration":2.8089769999999996,
+      "switches":14
+    },
+    {
+      "name":"● install - screentime - Cursor",
+      "duration":2.6109640000000001,
+      "switches":13
+    },
+    {
+      "name":"● tracker.c - screentime - Cursor",
+      "duration":17.965872999999991,
+      "switches":179
+    },
+    {
+      "name":"screentime - Cursor",
+      "duration":15.059759,
+      "switches":144
+    },
+    {
+      "name":"WhatsApp - Google Chrome",
+      "duration":19.985939999999999,
+      "switches":199
+    },
+    {
+      "name":"Unknown",
+      "duration":224.76587699999985,
+      "switches":2234
+    },
+    {
+      "name":"config.o - screentime - Cursor",
+      "duration":6.1205340000000001,
+      "switches":61
+    },
+    {
+      "name":"notifications.h - screentime - Cursor",
+      "duration":17.563434000000001,
+      "switches":175
+    },
+    {
+      "name":"app_tracker.h - screentime - Cursor",
+      "duration":51.496071000000065,
+      "switches":513
+    },
+    {
+      "name":"Home \/ X - Google Chrome",
+      "duration":46.227103999999933,
+      "switches":460
+    },
+    {
+      "name":"x.com\/home - Google Chrome",
+      "duration":0.70294400000000001,
+      "switches":7
+    },
+    {
+      "name":"X - Google Chrome",
+      "duration":1.207559,
+      "switches":12
+    },
+    {
+      "name":"(22) Discord | @2sharthegreat - Google Chrome",
+      "duration":19.858233000000002,
+      "switches":197
+    },
+    {
+      "name":"ChatGPT - Google Chrome",
+      "duration":1.1058290000000002,
+      "switches":11
+    },
+    {
+      "name":"Take your development skills from 0 to 100 and join the 100xdevs community - Google Chrome",
+      "duration":1.213014,
+      "switches":12
+    },
+    {
+      "name":"Ayush Goyal (@agayushh) \/ X - Google Chrome",
+      "duration":23.662513999999998,
+      "switches":235
+    }
+  ]
+}
